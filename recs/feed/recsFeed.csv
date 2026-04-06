@@ -1,0 +1,6 @@
+entity.id,entity.name,entity.categoryId,entity.price,entity.currency,entity.availability,entity.imageUrl,entity.pageUrl
+sku-1001,Blue T-Shirt,clothing,999,INR,in_stock,https://github.com/rockmax-rajat2/public_demo_repo/blob/recs_feed/recs/feed/1.jpeg,https://example.com/p/sku-1001
+con-sau-utag.data1[meta.og:url],Black Jeans,clothing,1999,INR,in_stock,https://github.com/rockmax-rajat2/public_demo_repo/blob/recs_feed/recs/feed/2.jpeg,https://example.com/p/sku-1002
+con-sau-utag.data2[meta.og:url],Running Shoes,footwear,2999,INR,in_stock,https://github.com/rockmax-rajat2/public_demo_repo/blob/recs_feed/recs/feed/3.jpeg,https://example.com/p/sku-1003
+con-sau-utag.data3[meta.og:url],Smart Watch,electronics,4999,INR,out_of_stock,https://github.com/rockmax-rajat2/public_demo_repo/blob/recs_feed/recs/feed/4.jpeg,https://example.com/p/sku-1004
+con-sau-utag.data4[meta.og:url],Wireless Earbuds,electronics,1999,INR,in_stock,https://github.com/rockmax-rajat2/public_demo_repo/blob/recs_feed/recs/feed/5.jpeg,https://example.com/p/sku-1005
