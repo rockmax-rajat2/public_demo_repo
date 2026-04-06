@@ -1,6 +1,6 @@
-entity.id,entity.name,entity.categoryId,entity.price,entity.currency,entity.availability,entity.imageUrl,entity.pageUrl
-sku-1001,Blue T-Shirt,clothing,999,INR,in_stock,https://example.com/images/blue-tshirt.jpg,https://example.com/p/sku-1001
-sku-1002,Black Jeans,clothing,1999,INR,in_stock,https://example.com/images/black-jeans.jpg,https://example.com/p/sku-1002
-sku-1003,Running Shoes,footwear,2999,INR,in_stock,https://example.com/images/shoes.jpg,https://example.com/p/sku-1003
-sku-1004,Smart Watch,electronics,4999,INR,out_of_stock,https://example.com/images/watch.jpg,https://example.com/p/sku-1004
-sku-1005,Wireless Earbuds,electronics,1999,INR,in_stock,https://example.com/images/earbuds.jpg,https://example.com/p/sku-1005
+entity.id,entity.name,entity.categoryId,entity.price,entity.availability,entity.imageUrl,entity.pageUrl
+sku-1001,Blue T-Shirt,clothing,999.00,in stock,https://example.com/images/blue-tshirt.jpg,https://example.com/p/sku-1001
+sku-1002,Black Jeans,clothing,1999.00,in stock,https://example.com/images/black-jeans.jpg,https://example.com/p/sku-1002
+sku-1003,Running Shoes,footwear,2999.00,in stock,https://example.com/images/shoes.jpg,https://example.com/p/sku-1003
+sku-1004,Smart Watch,electronics,4999.00,out of stock,https://example.com/images/watch.jpg,https://example.com/p/sku-1004
+sku-1005,Wireless Earbuds,electronics,1999.00,in stock,https://example.com/images/earbuds.jpg,https://example.com/p/sku-1005
