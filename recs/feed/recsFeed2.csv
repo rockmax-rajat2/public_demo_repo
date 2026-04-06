@@ -1,6 +1,10 @@
-entity.id,entity.name,entity.categoryId,entity.price,entity.availability,entity.imageUrl,entity.pageUrl
-sku-1001,Blue T-Shirt,clothing,999.00,in stock,https://example.com/images/blue-tshirt.jpg,https://example.com/p/sku-1001
-sku-1002,Black Jeans,clothing,1999.00,in stock,https://example.com/images/black-jeans.jpg,https://example.com/p/sku-1002
-sku-1003,Running Shoes,footwear,2999.00,in stock,https://example.com/images/shoes.jpg,https://example.com/p/sku-1003
-sku-1004,Smart Watch,electronics,4999.00,out of stock,https://example.com/images/watch.jpg,https://example.com/p/sku-1004
-sku-1005,Wireless Earbuds,electronics,1999.00,in stock,https://example.com/images/earbuds.jpg,https://example.com/p/sku-1005
+## RECSRecommendations Upload File
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.
+## RECS
+## RECSOTT catalog: movies and series. entity.custom1 = genre, entity.custom2 = type (movie|series).
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10
+testflix-001,Dune: Part Two,cat-sci-fi,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/testflix-001.jpg,,,,,Sci-Fi,movie,,,,,,,,,,
+con-sau-utag.data1[meta.og:url],Oppenheimer,cat-drama,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/testflix-002.jpg,,,,,Drama,movie,,,,,,,,,,
+con-sau-utag.data2[meta.og:url],The Bear,cat-drama,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/testflix-003.jpg,,,,,Drama,series,,,,,,,,,,
+con-sau-utag.data3[meta.og:url],Reacher,cat-action,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/testflix-004.jpg,,,,,Action,series,,,,,,,,,,
+con-sau-utag.data4[meta.og:url],Stranger Things,cat-sci-fi,,https://raw.githubusercontent.com/cherub7/target-r3demo-site/refs/heads/main/files/images/testflix-005.jpg,,,,,Sci-Fi,series,,,,,,,,,,
